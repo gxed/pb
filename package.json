@@ -9,14 +9,27 @@
   "gxDependencies": [
     {
       "author": "mattn",
-      "hash": "QmdvecVcFhbo5x4f3arqmfxyE3NzqwWyp77KzA68EKXJeX",
+      "hash": "QmVrtgFpU2Q7FmuqHuiB62BZJrAtatBAxwFSmwYQpzA1eA",
       "name": "go-colorable",
-      "version": "0.0.4"
+      "version": "0.1.0"
+    },
+    {
+      "author": "mattn",
+      "hash": "QmNu2sEu7LuoBQbnSoy8u6wk6oWwFX8L5nVVUZoK7J67oQ",
+      "name": "go-runewidth",
+      "version": "0.0.1"
+    },
+    {
+      "author": "fatih",
+      "hash": "QmeaNjDR5XcNGX1JHWFaAkB4aa8Jq9o3phXujRM1F4nhJw",
+      "name": "color",
+      "version": "0.0.1"
     }
   ],
-  "gxVersion": "0.7.0",
+  "gxVersion": "0.12.1",
   "language": "go",
-  "license": "BSD-old",
+  "license": "BSD-3-Clause",
   "name": "pb",
-  "version": "1.0.3"
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "1.0.23"
 }
