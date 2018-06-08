@@ -9,9 +9,9 @@
   "gxDependencies": [
     {
       "author": "mattn",
-      "hash": "QmVrtgFpU2Q7FmuqHuiB62BZJrAtatBAxwFSmwYQpzA1eA",
+      "hash": "QmTsHcKgTQ4VeYZd8eKYpTXeLW7KNwkRD9wjnrwsV2sToq",
       "name": "go-colorable",
-      "version": "0.1.0"
+      "version": "0.2.0"
     },
     {
       "author": "mattn",
@@ -21,9 +21,9 @@
     },
     {
       "author": "fatih",
-      "hash": "QmeaNjDR5XcNGX1JHWFaAkB4aa8Jq9o3phXujRM1F4nhJw",
+      "hash": "QmWsJXti4Nft4vXR8brjG2fJCUDWeJpwNVngyU42pByJxN",
       "name": "color",
-      "version": "0.0.1"
+      "version": "0.0.2"
     }
   ],
   "gxVersion": "0.12.1",
